@@ -152,3 +152,16 @@ cd /home/Code && python3 TestTRABIT.py --trabit_root /home/Data/TRABIT2019_MRI/t
 :heart::heart::heart: This work is implemented based on the following projects. We really appreciate their wonderful open-source work!
 - [torchac](https://github.com/fab-jul/torchac)
 - [L3C](https://github.com/fab-jul/L3C-PyTorch)
+
+# Citation
+```
+@ARTICLE{10478821,
+  author={Liu, Xiangrui and Wang, Meng and Wang, Shiqi and Kwong, Sam},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Bilateral Context Modeling for Residual Coding in Lossless 3D Medical Image Compression}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2024.3378910}}
+```
