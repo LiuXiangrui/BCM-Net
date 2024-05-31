@@ -48,7 +48,7 @@ You can refer to the following documents to install Docker and NVIDIA-Container-
 1. go to the project directory.
 2. create a docker image.
     ```shell
-    docker build -t BCM-Net .
+    docker build -t medical .
     ```
 3. create a docker container and run it.
     ```
